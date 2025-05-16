@@ -1,0 +1,23 @@
+#count{
+    display: block;
+    text-align: center;
+    font-size: 10em;
+    font-family: 'Times New Roman', Times, serif
+}
+
+#buttonsContainer{
+    text-align: center;
+}
+
+.buttons{
+    padding: 10px, 20px;
+    background: #f4efb3;
+    font-size: 1.5em;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0.25s;
+}
+
+.buttons:hover{
+    background-color: rgb(190, 183, 34)
+}
